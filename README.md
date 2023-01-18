@@ -10,3 +10,5 @@ Projeto cujo objetivo proposto foi construir um app de controle de hábitos usan
 - Construção do aplicativo mobile com React Native. 
 - Criação de um banco de dados, entidades principais da aplicação e listagem de casos de uso
 - Entendimento sobre Tailwind CSS e os principais fundamentos por trás do React.
+<br>
+-Tecnologias envolvidas: NodeJs, Fastify, Prisma, Tailwind, react e React Native.
